@@ -1,4 +1,4 @@
-package go_example_module
+package example
 
 import "math/rand"
 

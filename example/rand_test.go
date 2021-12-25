@@ -1,6 +1,8 @@
-package go_example_module
+package example
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestRand(t *testing.T) {
 	val := MyRandInt64()
