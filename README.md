@@ -1,3 +1,3 @@
-# go-example-module 1.5.0
+# go-example-module 1.6.0
 
 Пример модуля
